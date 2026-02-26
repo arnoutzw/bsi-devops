@@ -1,0 +1,119 @@
+{
+  "version": "1.0.4",
+  "date": "2026-02-26",
+  "description": "Release 1.0.4",
+  "repos": {
+    "Notes_App": {
+      "commit": "b35fa8b",
+      "repo": "arnoutzw/Notes_App"
+    },
+    "alm-app": {
+      "commit": "aea9d74",
+      "repo": "arnoutzw/alm-app"
+    },
+    "bambu-viewer": {
+      "commit": "13057b1",
+      "repo": "arnoutzw/bambu-viewer"
+    },
+    "control-tuner-app": {
+      "commit": "8ecd0b5",
+      "repo": "arnoutzw/control-tuner-app"
+    },
+    "datasheet-search-app": {
+      "commit": "01a00bb",
+      "repo": "arnoutzw/datasheet-search-app"
+    },
+    "engineering-calcs-app": {
+      "commit": "795a090",
+      "repo": "arnoutzw/engineering-calcs-app"
+    },
+    "erp-app": {
+      "commit": "1c39c8a",
+      "repo": "arnoutzw/erp-app"
+    },
+    "filaments-inventory": {
+      "commit": "f894b59",
+      "repo": "arnoutzw/filaments-inventory"
+    },
+    "filter-design-studio-app": {
+      "commit": "ba0a345",
+      "repo": "arnoutzw/filter-design-studio-app"
+    },
+    "forgeboard": {
+      "commit": "cad6007",
+      "repo": "arnoutzw/forgeboard"
+    },
+    "g-code-viewer": {
+      "commit": "f3f988a",
+      "repo": "arnoutzw/g-code-viewer"
+    },
+    "gear_calculator": {
+      "commit": "220d8ad",
+      "repo": "arnoutzw/gear_calculator"
+    },
+    "home": {
+      "commit": "b072439",
+      "repo": "arnoutzw/home"
+    },
+    "jk-bms-app": {
+      "commit": "54477e3",
+      "repo": "arnoutzw/jk-bms-app"
+    },
+    "kinematics-studio-app": {
+      "commit": "d0a1d1e",
+      "repo": "arnoutzw/kinematics-studio-app"
+    },
+    "label-designer-app": {
+      "commit": "eacf3fa",
+      "repo": "arnoutzw/label-designer-app"
+    },
+    "magfield-app": {
+      "commit": "59ce4ca",
+      "repo": "arnoutzw/magfield-app"
+    },
+    "mech-fea-app": {
+      "commit": "1a231e8",
+      "repo": "arnoutzw/mech-fea-app"
+    },
+    "mijia_monitor": {
+      "commit": "861000a",
+      "repo": "arnoutzw/mijia_monitor"
+    },
+    "mindforge": {
+      "commit": "26721ed",
+      "repo": "arnoutzw/mindforge"
+    },
+    "pq-bms-app": {
+      "commit": "8cb0542",
+      "repo": "arnoutzw/pq-bms-app"
+    },
+    "py-lab-app": {
+      "commit": "6c4343a",
+      "repo": "arnoutzw/py-lab-app"
+    },
+    "req-management": {
+      "commit": "8f8e8c6",
+      "repo": "arnoutzw/req-management"
+    },
+    "scrum-app": {
+      "commit": "44d45f2",
+      "repo": "arnoutzw/scrum-app"
+    },
+    "serial-app": {
+      "commit": "e8d126e",
+      "repo": "arnoutzw/serial-app"
+    },
+    "suspension-viz-app": {
+      "commit": "0adbe1e",
+      "repo": "arnoutzw/suspension-viz-app"
+    },
+    "vibration_mode_visualizer": {
+      "commit": "0fdbde9",
+      "repo": "arnoutzw/vibration_mode_visualizer"
+    },
+    "woodcut-optimizer": {
+      "commit": "8acf672",
+      "repo": "arnoutzw/woodcut-optimizer"
+    }
+  }
+}
