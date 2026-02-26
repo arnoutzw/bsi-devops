@@ -1,19 +1,23 @@
 {
-  "version": "1.0.4",
-  "date": "2026-02-26",
-  "description": "Release 1.0.4",
+  "version": "1.1.0",
+  "date": "2026-02-27",
+  "description": "Demo project seed loader \u2014 cross-app seeding via postMessage relay",
   "repos": {
     "Notes_App": {
-      "commit": "b35fa8b",
+      "commit": "ba8bf13",
       "repo": "arnoutzw/Notes_App"
     },
     "alm-app": {
-      "commit": "aea9d74",
+      "commit": "27af78a",
       "repo": "arnoutzw/alm-app"
     },
     "bambu-viewer": {
       "commit": "13057b1",
       "repo": "arnoutzw/bambu-viewer"
+    },
+    "bsi-devops": {
+      "commit": "dfcff44",
+      "repo": "arnoutzw/bsi-devops"
     },
     "control-tuner-app": {
       "commit": "8ecd0b5",
@@ -28,7 +32,7 @@
       "repo": "arnoutzw/engineering-calcs-app"
     },
     "erp-app": {
-      "commit": "1c39c8a",
+      "commit": "9d4a4d6",
       "repo": "arnoutzw/erp-app"
     },
     "filaments-inventory": {
@@ -40,7 +44,7 @@
       "repo": "arnoutzw/filter-design-studio-app"
     },
     "forgeboard": {
-      "commit": "cad6007",
+      "commit": "7b7d0cf",
       "repo": "arnoutzw/forgeboard"
     },
     "g-code-viewer": {
@@ -52,7 +56,7 @@
       "repo": "arnoutzw/gear_calculator"
     },
     "home": {
-      "commit": "b072439",
+      "commit": "14c7f98",
       "repo": "arnoutzw/home"
     },
     "jk-bms-app": {
@@ -92,11 +96,11 @@
       "repo": "arnoutzw/py-lab-app"
     },
     "req-management": {
-      "commit": "8f8e8c6",
+      "commit": "7716c33",
       "repo": "arnoutzw/req-management"
     },
     "scrum-app": {
-      "commit": "44d45f2",
+      "commit": "81e5a3d",
       "repo": "arnoutzw/scrum-app"
     },
     "serial-app": {
